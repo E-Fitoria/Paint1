@@ -1,6 +1,11 @@
 # Paint1
-* En este paint desarrollado con graphics.h del Lenguaje C para la clase de Geometría Computacional, se pueden dibujar distintintas figuras geométricas, 
+* En este paint fue desarrolado para la clase de Geometría Computacional, se pueden dibujar distintintas figuras geométricas, 
   cambiar sus colores, cortar, mover y borrar.
+
+### Tecnologías usadas
+* Lenguaje de programación __C__".
+* IDE TurboC 2.0
+* Librería graphics.h
   
  ### Imagen de Paint1 
  
